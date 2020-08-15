@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: IRALBatch
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 52058018
+Implementation-Vendor-Id: com.conduent.iral.batch
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.conduent.iral.batch
+Created-By: Maven Integration for Eclipse
+Main-Class: com.conduent.iral.batch.IralBatch
+
